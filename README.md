@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatendra054&label=Profile%20views&color=0e75b6&style=flat" alt="yatendra054" /> </p>
 
-- 🔭 I’m currently working on [Auto Machine Learning](Local URL: http://localhost:8501 Network URL: http://192.168.10.38:8501)
-
 - 🌱 I’m currently learning **Machine Learning Specialization**
 
 - ⚡ Fun fact **I'm a little bit excited and funny**
