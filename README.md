@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yatendra Pachori</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr7ZgZdz1L2KE8ielEbzKApte3kIznM2o9k462THcs1A&s.gif">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatendra054&label=Profile%20views&color=0e75b6&style=flat" alt="yatendra054" /> </p>
 
