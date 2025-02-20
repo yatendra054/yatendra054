@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yatendra054&label=Profile%20views&color=0e75b6&style=flat" alt="yatendra054" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning Specialization**
+- 🌱 I’m currently learning **Machine Learning Specialization** And **Backend through Django**
 
 - ⚡ Fun fact **I'm a little bit excited and funny**
 
