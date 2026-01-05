@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 Final Year **B.Tech (Information Technology)** Student  
-- 🌱 Currently learning **Machine Learning Specialization** & **Backend Development with Django**  
+- 🌱 Currently learning **Machine Learning** & **Backend Development with Django**  
 - 🤖 Interested in **Generative AI, LangChain, LangGraph & Multi-Agent Systems**  
 - 🧠 Working on AI projects like **Multi-Agent Assistants**, **Dark Pattern Detection**, and **Task Agents**  
 - ⚡ Fun fact: *I’m a little bit excited and funny* 😄  
@@ -72,5 +72,11 @@
 - Preparing for **AI / Data Science internships**
 
 ---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yatendra054&show_icons=true&locale=en&layout=compact" alt="yatendra054" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yatendra054&show_icons=true&locale=en" alt="yatendra054" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yatendra054&" alt="yatendra054" /></p>
 
 ⭐️ *Feel free to explore my repositories and connect with me!*  
