@@ -73,4 +73,13 @@
 
 ---
 
+# 📊 GitHub Stats:
+<span> &nbsp; &nbsp; </span>
+
+<div align="center">
+<img width="690px" src="https://github-readme-activity-graph.vercel.app/graph?username=yatendra054&theme=github">
+</br>
+  <img width="690px" src="https://github-readme-activity-graph.vercel.app/graph?username=yatendra054&theme=github">
+</div>
+
 ⭐️ *Feel free to explore my repositories and connect with me!*  
