@@ -32,26 +32,26 @@
 
 ### 🛠️ Languages & Tools
 
-#### Programming & Backend
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg)
-![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg)
+<h4>Programming & Backend</h4>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
 
-#### Data Science & AI
-![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)
-![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
-![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
-![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg)
-![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
+<h4>Data Science & AI</h4>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
 
-#### Databases & Tools
-![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
-![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+<h4>Databases & Tools</h4>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
 
 ---
 
