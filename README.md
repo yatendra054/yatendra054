@@ -78,8 +78,11 @@
 
 <div align="center">
 <img width="690px" src="https://github-readme-activity-graph.vercel.app/graph?username=yatendra054&theme=github">
-</br>
-  <img width="690px" src="https://github-readme-activity-graph.vercel.app/graph?username=yatendra054&theme=github">
 </div>
+
+## <h>🏆 GitHub Trophies</h1>
+![](https://github-profile-trophy.vercel.app/?username=yatendra054&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+###
 
 ⭐️ *Feel free to explore my repositories and connect with me!*  
