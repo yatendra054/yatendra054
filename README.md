@@ -73,10 +73,4 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yatendra054&show_icons=true&locale=en&layout=compact" alt="yatendra054" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yatendra054&show_icons=true&locale=en" alt="yatendra054" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yatendra054&" alt="yatendra054" /></p>
-
 ⭐️ *Feel free to explore my repositories and connect with me!*  
