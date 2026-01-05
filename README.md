@@ -1,26 +1,76 @@
-![logo](https://github.com/yatendra054/yatendra054/blob/main/Information%20Technology.png)
-<h1 align="center">Hi 👋, I'm Yatendra Pachori</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+![Banner](https://github.com/yatendra054/yatendra054/blob/main/Information%20Technology.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yatendra054&label=Profile%20views&color=0e75b6&style=flat" alt="yatendra054" /> </p>
+# Hi 👋, I'm Yatendra Pachori  
 
-- 🌱 I’m currently learning **Machine Learning Specialization** And **Backend through Django**
+### A Passionate Data Scientist & AI Developer from India 🇮🇳  
 
-- ⚡ Fun fact **I'm a little bit excited and funny**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yatendra-pachori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yatendra-pachori" height="30" width="40" /></a>
-<a href="https://kaggle.com/yatendrapachori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="yatendrapachori" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yatendra123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yatendra123" height="30" width="40" /></a>
+### 👨‍💻 About Me
+- 🎓 Final Year **B.Tech (Information Technology)** Student  
+- 🌱 Currently learning **Machine Learning Specialization** & **Backend Development with Django**  
+- 🤖 Interested in **Generative AI, LangChain, LangGraph & Multi-Agent Systems**  
+- 🧠 Working on AI projects like **Multi-Agent Assistants**, **Dark Pattern Detection**, and **Task Agents**  
+- ⚡ Fun fact: *I’m a little bit excited and funny* 😄  
+
+---
+
+### 🔗 Connect With Me
+<p>
+  <a href="https://linkedin.com/in/yatendra-pachori">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="30"/>
+  </a>
+  <a href="https://kaggle.com/yatendrapachori">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="30"/>
+  </a>
+  <a href="https://www.leetcode.com/yatendra123">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="30"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yatendra054&show_icons=true&locale=en&layout=compact" alt="yatendra054" /></p>
+### 🛠️ Languages & Tools
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yatendra054&show_icons=true&locale=en" alt="yatendra054" /></p>
+#### Programming & Backend
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)
+![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg)
+![Flask](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yatendra054&" alt="yatendra054" /></p>
+#### Data Science & AI
+![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)
+![Scikit-Learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+![TensorFlow](https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg)
+![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg)
+![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
+
+#### Databases & Tools
+![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+
+---
+
+### 📊 GitHub Analytics
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yatendra054&layout=compact&theme=default)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yatendra054&show_icons=true&theme=default)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yatendra054&theme=default)
+
+---
+
+### 🚀 Current Focus
+- Building **AI Agents using LangGraph**
+- Improving **ML model performance & deployment**
+- Backend APIs using **Django + REST**
+- Preparing for **AI / Data Science internships**
+
+---
+
+⭐️ *Feel free to explore my repositories and connect with me!*  
