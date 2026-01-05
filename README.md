@@ -39,10 +39,8 @@
 <h4>Programming & Backend</h4>
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
 </p>
 
 <h4>Data Science & AI</h4>
@@ -70,7 +68,7 @@
 ### 🚀 Current Focus
 - Building **AI Agents using LangGraph**
 - Improving **ML model performance & deployment**
-- Backend APIs using **Django + REST**
+- Backend APIs using **Django**
 - Preparing for **AI / Data Science internships**
 
 ---
