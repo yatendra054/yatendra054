@@ -73,16 +73,4 @@
 
 ---
 
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatendra054&layout=compact" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yatendra054&show_icons=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yatendra054" />
-</p>
-
 ⭐️ *Feel free to explore my repositories and connect with me!*  
