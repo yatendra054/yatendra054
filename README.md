@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Yatendra Pachori  
 
-### A Passionate Data Scientist & AI Developer from India 🇮🇳  
+### An Aspiring Software Developer & ML/AI from India 🇮🇳
 
 ---
 
