@@ -6,12 +6,13 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Final Year **B.Tech (Information Technology)** Student  
-- 🌱 Currently learning **Machine Learning** & **Backend Development with Django**  
-- 🤖 Interested in **Generative AI, LangChain, LangGraph & Multi-Agent Systems**  
-- 🧠 Working on AI projects like **Multi-Agent Assistants**, **Dark Pattern Detection**, and **Task Agents**  
-- ⚡ Fun fact: *I’m a little bit excited and funny* 😄  
+## 👨‍💻 About Me
+
+🎓 **Final-year B.Tech (Information Technology)** student with a strong interest in building intelligent systems  
+🌱 Actively working in **Machine Learning** and **Backend Development (Django)**, with hands-on project experience  
+🤖 Passionate about **Generative AI**, **LangChain**, **LangGraph**, and **Multi-Agent Systems** — especially how agents can reason, collaborate, and automate complex tasks  
+🧠 Built and explored AI-driven projects like **Multi-Agent Assistants**, **Dark Pattern Detection Systems**, and **Autonomous Task Agents**  
+⚡ Fun fact: I mix curiosity with code — and yes, I’m a little excited
 
 ---
 
