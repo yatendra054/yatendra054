@@ -49,7 +49,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" width="40"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
 </p>
 
@@ -57,6 +56,7 @@
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
+   <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 
 </p>
